@@ -1,2 +1,2 @@
-# Spring-Data-JPA-and-H2
-Spring Data JPA and H2 setup
+# Spring-Data-JPA-and-MySQL
+Spring Data JPA and MySQL setup
